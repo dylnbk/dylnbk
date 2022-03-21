@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dylnbk
-- 🌱 Currently learning Python, JavaScript, HTML, CSS
-- 💞️ I enjoy art, music, computing, finance, travel
+- 💞️ I enjoy art, music, computing, travel
 - 📫 [Social](https://www.instagram.com/dyln.bk)
 
 <!---
