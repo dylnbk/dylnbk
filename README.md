@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @dylnbk
-- 💞️ I enjoy art, music, computing, travel
-- 📫 [Social](https://www.instagram.com/dyln.bk)
+Hi, I’m @dylnbk
+I enjoy art, music, computing, travel
 
 <!---
 dylnbk/dylnbk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
