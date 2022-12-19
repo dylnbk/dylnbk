@@ -1,6 +1,6 @@
 Hi, I’m @dylnbk
 
-I enjoy art, music, computing, travel.
+I like to make things.
 
 <!---
 dylnbk/dylnbk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
